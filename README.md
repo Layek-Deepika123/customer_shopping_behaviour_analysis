@@ -1,4 +1,4 @@
-# customer_shopping_behaviour_analysis
+# Customer_shopping_behaviour_analysis
 # Overview
 
 This project demonstrates an end-to-end data analytics workflow using Python, SQL, and Power BI. The objective is to analyze customer shopping behavior, identify purchasing trends, and generate actionable business insights through data analysis and visualization.
